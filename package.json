@@ -2,8 +2,7 @@
   "name": "Online-Games-Website",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Max-spec007/Online-Games-Website.git",
-  "author": "<maxtheflash007@gmail.com>",
+  "author": "Maxwell Kwarteng",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-cli serve",
